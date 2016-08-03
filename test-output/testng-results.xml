@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20495" started-at="2016-07-18T05:02:47Z" finished-at="2016-07-18T05:03:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20495" started-at="2016-07-18T05:02:47Z" finished-at="2016-07-18T05:03:07Z">
+      <class name="testCases.VerifyLogInPageWithExtentReport">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.VerifyLogInPageWithExtentReport@26be92ad]" name="setUp" is-config="true" duration-ms="10407" started-at="2016-07-18T01:02:47Z" finished-at="2016-07-18T01:02:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testHomePage()[pri:0, instance:testCases.VerifyLogInPageWithExtentReport@26be92ad]" name="testHomePage" duration-ms="9281" started-at="2016-07-18T01:02:57Z" finished-at="2016-07-18T01:03:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.VerifyLogInPageWithExtentReport@26be92ad]" name="tearDown" is-config="true" duration-ms="791" started-at="2016-07-18T01:03:07Z" finished-at="2016-07-18T01:03:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.VerifyLogInPageWithExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
